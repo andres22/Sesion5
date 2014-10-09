@@ -1,0 +1,8 @@
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppComboTexBox4\AppComboTexBox4\bin\Debug\AppComboTexBox4.exe.config
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppComboTexBox4\AppComboTexBox4\bin\Debug\AppComboTexBox4.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppComboTexBox4\AppComboTexBox4\bin\Debug\AppComboTexBox4.pdb
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppComboTexBox4\AppComboTexBox4\obj\Debug\AppComboTexBox4.Form13.resources
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppComboTexBox4\AppComboTexBox4\obj\Debug\AppComboTexBox4.Properties.Resources.resources
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppComboTexBox4\AppComboTexBox4\obj\Debug\AppComboTexBox4.csproj.GenerateResource.Cache
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppComboTexBox4\AppComboTexBox4\obj\Debug\AppComboTexBox4.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppComboTexBox4\AppComboTexBox4\obj\Debug\AppComboTexBox4.pdb
